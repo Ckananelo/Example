@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(133, 182, 152);
+}
+
+table, th, td {
+border: 1px solid black
+}
+
+.class{
+
+    color: aqua;
+}
